@@ -4,7 +4,7 @@ Max Kelly
 
 ## Overview
 - This repository contains Google Colab Notebooks prepared for GEO 441/541 @Miami University
-- Students can build a repository like this as their project portfolio
+- These works showcase skills I have learned in ArcGIS. They represent a wide array of analytical and digital mapping skills.
 
 ## Basic Mapping
 - [Introduction to ArcGIS Pro GUI First map](https://colab.research.google.com/drive/1mS_a8CQZV2oPQtah5bq1TtICrH1ZAj_D?usp=sharing)
