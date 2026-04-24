@@ -7,7 +7,7 @@ Max Kelly
 - These works showcase skills I have learned in ArcGIS. They represent a wide array of analytical and digital mapping skills.
 
 ## Basic Mapping
-- [Introduction to ArcGIS Pro GUI First map]()
+- [Introduction to ArcGIS Pro GUI First map]
 - [Multiple map frames in one map layout](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
 
 ## Map Coordinate Basics
