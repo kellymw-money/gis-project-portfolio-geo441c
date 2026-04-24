@@ -12,10 +12,6 @@ Max Kelly
 - [Multiple map frames in one map layout](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
   - Map layout ith multiple frames to compare views.
 
-## Map Coordinate Basics
-- [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
-  - Understanding how spatial data is accurately used in maps.
-
 ## Build Selections and Queries
 - [Query spatial data for new insights](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/KellyMW_week_03_assignment_template.ipynb)
   - Used spatial queries to analyze geographic data.
