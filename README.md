@@ -14,7 +14,7 @@ Max Kelly
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
 ## Build Selections and Queries
-- [Query spatial data for new insights](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/Copy_of_week_05_assignment_template.ipynb)
+- [Query spatial data for new insights]
 
 ## Spatial Analysis (Vector)
 - [Projecting Geographic Data](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/KellyMW_week_03_assignment_template.ipynb)
