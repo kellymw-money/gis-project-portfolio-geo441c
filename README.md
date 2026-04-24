@@ -17,8 +17,8 @@ Max Kelly
 - [Query spatial data for new insights]
 
 ## Spatial Analysis (Vector)
-- [Projecting Geographic Data](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/KellyMW_week_03_assignment_template.ipynb)
-- [Replicating John Snow's discovery on the cause of cholera spread in Soho, London Buffer Analysis](https://github.com/kellymw-money/gis-project-portfolio-geo441c/blob/main/Copy_of_week_11_assignment_template.ipynb)
+- [Projecting Geographic Data]
+- [Replicating John Snow's discovery on the cause of cholera spread in Soho, London Buffer Analysis]
 
 
 ## Spatial Analysis (Raster)
