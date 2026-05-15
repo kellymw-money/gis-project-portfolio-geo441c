@@ -28,5 +28,6 @@ Max Kelly
   - Used satelite imagery to anlyze the before and after of Thomas fire.
 
 
-## Final Project StoryMap: Identifying College Towns
+## Final Project StoryMap: Identifying College Towns in Ohio
 -[View StoryMap Here](https://storymaps.arcgis.com/stories/e8ce5ba348c24d1f9cdfbd9791ab52de)
+-[Identifying College Towns In Ohio Project Proposal Slides](https://docs.google.com/presentation/d/1VNakwv7Jfjx_vgTKtSAdjTDgjd__Tg70KZlJ7NiaqSg/edit?usp=sharing)
