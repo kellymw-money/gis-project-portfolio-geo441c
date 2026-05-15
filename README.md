@@ -29,4 +29,4 @@ Max Kelly
 
 
 ## Final Project StoryMap: Identifying College Towns
--[View StoryMap Here](https://arcg.is/0rGrOW2)
+-[View StoryMap Here](https://storymaps.arcgis.com/stories/e8ce5ba348c24d1f9cdfbd9791ab52de)
